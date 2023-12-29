@@ -1,0 +1,9 @@
+project_id: oomlout_tdpbmct_nineteen_inch_rack_printer_mounts
+project_name: "Nineteen Inch Rack Printer Mounts"
+project_repo: github.com/oomlout/oomlout_tdpbmct_nineteen_inch_rack_printer_mounts
+production_format:
+  oolc_1_printer_mount_anycubic_vyper:
+    file_location: source_files/oolc_1.cdr
+  
+  
+  
