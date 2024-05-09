@@ -4,6 +4,8 @@ project_repo: github.com/oomlout/oomlout_tdpbmct_nineteen_inch_rack_printer_moun
 production_format:
   oolc_1_printer_mount_anycubic_vyper:
     file_location: source_files/oolc_1.cdr
+  oolc_2_printwe_mount_wanhao_duplicator_i3_plus:
+    file_location: source_files/oolc_2.cdr
   
   
   
